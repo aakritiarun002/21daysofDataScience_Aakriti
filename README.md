@@ -7,7 +7,7 @@
 - Learned about datatypes in Python
 - File handling 
 - openCV
-## Day 1 (08/07/2021)
+## Day 2 (08/07/2021)
 - Numpy
 - Array and vectors
 - EDA
