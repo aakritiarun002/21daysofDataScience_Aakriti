@@ -17,5 +17,5 @@
 - EDA Practice
 - Matplotlib and Seaborn practice
 ## Day 4 (10/07/2021)
--Started working on a project(EDA)
+- Started working on a project(EDA)
 
