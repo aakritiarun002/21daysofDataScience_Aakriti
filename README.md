@@ -20,3 +20,9 @@
 - Started working on a project(EDA)
 - Learning sklearn
 
+# SUNDAY PROJECT FOCUSED
+
+## Day 5 (12/07/2021)
+- Logistic Regression
+- Data Visualization Using Seaborn
+
