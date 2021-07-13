@@ -26,3 +26,7 @@
 - Logistic Regression
 - Data Visualization Using Seaborn
 
+## Day 6 (13/07/2021)
+- Practice of Logistic Regression
+- Working over Titanic Data Set
+
