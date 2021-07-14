@@ -30,3 +30,7 @@
 - Practice of Logistic Regression
 - Working over Titanic Data Set
 
+## Day 7 (14/07/2021)
+- Learning Package and API used in Data Science
+
+
