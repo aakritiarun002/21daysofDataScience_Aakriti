@@ -33,4 +33,11 @@
 ## Day 7 (14/07/2021)
 - Learning Package and API used in Data Science
 
+## Day 8 (15/07/2021)
+- Learning Sklearn
+
+## Day 9 (14/07/2021)
+- Got Udacity AWS Scholarship 
+
+
 
