@@ -36,8 +36,14 @@
 ## Day 8 (15/07/2021)
 - Learning Sklearn
 
-## Day 9 (14/07/2021)
+## Day 9 (16/07/2021)
 - Got Udacity AWS Scholarship 
+- Learning Power BI for Data Visualization
 
+## Day 10 (17/07/2021)
+- Learning Power BI for Data Visualization 
+- Revisisng Last Week Topics
 
-
+## Day 11 (18/07/2021)
+- Revising Logistic Regression
+- Revising Sklearn
