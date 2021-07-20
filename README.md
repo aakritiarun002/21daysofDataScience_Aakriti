@@ -44,6 +44,9 @@
 - Learning Power BI for Data Visualization 
 - Revisisng Last Week Topics
 
-## Day 11 (18/07/2021)
+## Day 11 (19/07/2021)
 - Revising Logistic Regression
 - Revising Sklearn
+
+## Day 12 (20/07/2021)
+- Started with KNN algorithm
