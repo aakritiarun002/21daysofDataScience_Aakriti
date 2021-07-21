@@ -50,3 +50,6 @@
 
 ## Day 12 (20/07/2021)
 - Started with KNN algorithm
+
+## Day 13 (21/07/2021)
+- Practical of KNN algorithm
