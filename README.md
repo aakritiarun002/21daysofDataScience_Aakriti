@@ -53,3 +53,6 @@
 
 ## Day 13 (21/07/2021)
 - Practical of KNN algorithm
+
+## Day 14 (22/07/2021)
+- Revision Day 1
