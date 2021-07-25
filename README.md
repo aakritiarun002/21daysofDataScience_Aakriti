@@ -56,3 +56,7 @@
 
 ## Day 14 (22/07/2021)
 - Revision Day 1
+
+## Day 15 (23/07/2021)
+- Revision Day 2
+- Started with Python for Finance
