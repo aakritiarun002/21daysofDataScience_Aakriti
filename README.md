@@ -60,3 +60,13 @@
 ## Day 15 (23/07/2021)
 - Revision Day 2
 - Started with Python for Finance
+
+## Day 16 (24/07/2021)
+- Python for Finance
+
+## Day 17 (26/07/2021)
+- Power BI
+- Python for Finance
+
+## Day 18 (28/07/2021)
+- Python for Finance
