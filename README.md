@@ -70,3 +70,4 @@
 
 ## Day 18 (28/07/2021)
 - Python for Finance
+- Power BI
